@@ -1,0 +1,8 @@
+{
+  "id": "cardmirror-portable-clipboard",
+  "name": "Portable Clipboard",
+  "version": "0.1.0",
+  "description": "Keeps Cite/Underline/Emphasis/Undertag/Analytic formatting and Pocket/Hat/Block/Tag headings intact when pasting into Google Docs, Word, Outlook, Slack, etc.",
+  "author": "you",
+  "apiVersion": 1
+}
